@@ -30,7 +30,7 @@
  # 3. 핵심 기술
  ## 1. GPT
 - 유기견마다 고유 특성 부여
-- 눈길을 사로잡는 유기견의 소개글 생성
+- 눈길을 사로잡는 유기견의 페르소나, 소개글 생성
 - 사용자와 유기견 캐릭터의 개성을 담은 대화 경험 제공
 - GPT Plugin을 통해 채팅 DB와 연결, 유기견 캐릭터가 이전 대화 내용을 기억함으로써 자연스러운 대화 구현
 - API 호출 제한 초과 이슈 해결
@@ -50,7 +50,7 @@
 #### 2.1 Stable Diffusion 프롬프트 진행과정
 ![디퓨전](https://github.com/chubinibini/chubinibini/assets/118544736/d40c3713-cc3c-46b8-8b2b-f0772aa01a7c)
 #### 2.2 Stable Diffusion 결과
-![7_태리](https://github.com/chubinibini/chubinibini/assets/118544736/706d4892-2b8c-46c6-83be-75c4a3334743)
+![태리](https://github.com/chubinibini/chubinibini/assets/118544736/82860295-cb68-46e6-9993-cdf4156a0b64)
 
 # 4. 기대 효과
 
